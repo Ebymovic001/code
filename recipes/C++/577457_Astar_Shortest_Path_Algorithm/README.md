@@ -1,3 +1,4 @@
+recipes/C++/577457_Astar_Shortest_Path_Algorithm
 ## A-star Shortest Path Algorithm  
 Originally published: 2010-11-08 03:17:38  
 Last updated: 2010-12-25 23:36:35  
